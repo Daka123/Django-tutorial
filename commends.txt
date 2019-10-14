@@ -21,6 +21,7 @@ Username: daria
 Email: daria@test.com
 Password: haslo
 
+python manage.py shell => uruchamia interaktywn¹ kosolê
 
 
 
