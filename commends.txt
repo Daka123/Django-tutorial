@@ -16,7 +16,7 @@ http://127.0.0.1:8000/admin/ => uruchamia panel admina
 
 python manage.py createsuperuser => tworzy super usera
 
-Superuser:
+Superuser vietualnev/pythonanywhere:
 Username: daria
 Email: daria@test.com
 Password: haslo
