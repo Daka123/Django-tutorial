@@ -1,0 +1,28 @@
+https://tutorial.djangogirls.org/pl/ => strona z tutorialem
+
+myvenv\Scripts\activate => aktywacja virtual enva
+
+django-admin.exe startproject mysite . => automatycznie tworzy katalogi i pliki do projektu
+python manage.py migrate => tworzy baze danych
+
+python manage.py runserver => uruchamia server www
+http://127.0.0.1:8000/ => do przegl¹darki, mo¿na zobaczyæ czy strona dzia³a ale tylko po runserver
+
+python manage.py startapp blog => tworzy osobn¹ aplikacjê wewn¹trz projektu
+python manage.py makemigrations blog => tworzy listê zmian
+python manage.py migrate blog => zapisuje zmiany w modelach (itp. pewnie)
+
+http://127.0.0.1:8000/admin/ => uruchamia panel admina
+
+python manage.py createsuperuser => tworzy super usera
+
+Superuser:
+Username: daria
+Email: daria@test.com
+Password: haslo
+
+
+
+
+
+
